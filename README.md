@@ -1,3 +1,9 @@
-# signup-form
+# Sign Up form website
 
-- [Photo](https://www.pexels.com/photo/aerial-view-of-houses-and-green-trees-near-mountains-and-body-of-water-4784462/) by Jess Loiterton
+![Sign up page](/static/Signup%20form.PNG)
+
+## Features
+This is a form that checks for: 
+- an 11-digit phone number
+- a valid email address
+- a password confirmation
